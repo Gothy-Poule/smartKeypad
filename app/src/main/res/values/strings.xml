@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">smartKeypad</string>
+
+    <string name="nav_header_title">smartKeypad</string>
+    <string name="nav_header_subtitle">smartKeypad@android.com</string>
+    <string name="action_settings">Connect to Device...</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_icons">Tools</string>
+    <string name="menu_login">Connect</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
